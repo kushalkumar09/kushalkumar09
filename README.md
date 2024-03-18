@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" style="max-width=50%"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWY1bXU3b285NnR4N3p1cGU5ZzVtMjd1dzIwaXlncHFtc3hodW1rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif">
+<img align="right" style="max-width: 50%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWY1bXU3b285NnR4N3p1cGU5ZzVtMjd1dzIwaXlncHFtc3hodW1rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalkumar09&label=Profile%20views&color=0e75b6&style=flat" alt="kushalkumar09" /> </p>
 
